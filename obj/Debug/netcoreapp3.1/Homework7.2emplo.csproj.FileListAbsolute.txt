@@ -1,0 +1,13 @@
+C:\AlifAcademy\Homework7.2emplo\bin\Debug\netcoreapp3.1\Homework7.2emplo.exe
+C:\AlifAcademy\Homework7.2emplo\bin\Debug\netcoreapp3.1\Homework7.2emplo.deps.json
+C:\AlifAcademy\Homework7.2emplo\bin\Debug\netcoreapp3.1\Homework7.2emplo.runtimeconfig.json
+C:\AlifAcademy\Homework7.2emplo\bin\Debug\netcoreapp3.1\Homework7.2emplo.runtimeconfig.dev.json
+C:\AlifAcademy\Homework7.2emplo\bin\Debug\netcoreapp3.1\Homework7.2emplo.dll
+C:\AlifAcademy\Homework7.2emplo\bin\Debug\netcoreapp3.1\Homework7.2emplo.pdb
+C:\AlifAcademy\Homework7.2emplo\obj\Debug\netcoreapp3.1\Homework7.2emplo.csprojAssemblyReference.cache
+C:\AlifAcademy\Homework7.2emplo\obj\Debug\netcoreapp3.1\Homework7.2emplo.csproj.CoreCompileInputs.cache
+C:\AlifAcademy\Homework7.2emplo\obj\Debug\netcoreapp3.1\Homework7.2emplo.AssemblyInfoInputs.cache
+C:\AlifAcademy\Homework7.2emplo\obj\Debug\netcoreapp3.1\Homework7.2emplo.AssemblyInfo.cs
+C:\AlifAcademy\Homework7.2emplo\obj\Debug\netcoreapp3.1\Homework7.2emplo.dll
+C:\AlifAcademy\Homework7.2emplo\obj\Debug\netcoreapp3.1\Homework7.2emplo.pdb
+C:\AlifAcademy\Homework7.2emplo\obj\Debug\netcoreapp3.1\Homework7.2emplo.genruntimeconfig.cache

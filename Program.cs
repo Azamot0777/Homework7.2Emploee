@@ -9,6 +9,7 @@ namespace Homework7_2emplo
         public int experience { get; set; }
         public string position { get; set; }
 
+
         public Employee(string name, string surname)
         {
             this.name = name;
@@ -21,21 +22,22 @@ namespace Homework7_2emplo
         }
         public double CountZarplata(string[] positionList, double[] salary)
         {
-            double summ = 0;
-            int i, n = positionList.Length;
-            for (i = 0; i < n; i++)
+            double zarp = 0;
+            int i, k = positionList.Length;
+            for (i = 0; i < k; i++)
             {
                 if (this.position == positionList[i])
                 {
-                    summ += salary[i] + (this.experience / 10) * 1000 + 500;
+                    zarp += salary[i] + (this.experience / 10) * 100 + 50;
                     break;
                 }
             }
-            if (summ == 0)
+            if (zarp == 0)
             {
                 Console.WriteLine("Нет этой позиции");
             }
-            return Math.Round(summ, 4);
+            return Math.Round(zarp, 4);
+
         }
     }
 
@@ -70,6 +72,11 @@ namespace Homework7_2emplo
             nalog1 = Employee.CountNalog(zarp1);
             nalog2 = Employee.CountNalog(zarp2);
             nalog3 = Employee.CountNalog(zarp3);
+
+
+            System.Console.WriteLine($"Фамалия:{em1.surname} Имя :{em1.name} Должность : {em1.position} Запр:{zarp1} Налог: {nalog1}");
+            System.Console.WriteLine($"Фамалия:{em2.surname} Имя : {em2.name} Должность : {em2.position} Запр: {zarp2} Налог: {nalog2}");
+            System.Console.WriteLine($"Фамалия:{em3.surname} Имя : {em3.name} Должность : {em3.position} Запр:{zarp3} Налог:{nalog3}");
 
 
 
